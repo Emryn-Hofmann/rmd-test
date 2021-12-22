@@ -1,6 +1,6 @@
 ---
 title: "Testing R Markdown with Git"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
